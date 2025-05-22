@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\bin\Debug\net8.0\GiamSatDonHang.exe
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\bin\Debug\net8.0\GiamSatDonHang.deps.json
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\bin\Debug\net8.0\GiamSatDonHang.runtimeconfig.json
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\bin\Debug\net8.0\GiamSatDonHang.dll
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\bin\Debug\net8.0\GiamSatDonHang.pdb
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\obj\Debug\net8.0\GiamSatDonHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\obj\Debug\net8.0\GiamSatDonHang.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\obj\Debug\net8.0\GiamSatDonHang.AssemblyInfo.cs
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\obj\Debug\net8.0\GiamSatDonHang.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\obj\Debug\net8.0\GiamSatDonHang.dll
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\obj\Debug\net8.0\refint\GiamSatDonHang.dll
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\obj\Debug\net8.0\GiamSatDonHang.pdb
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\obj\Debug\net8.0\GiamSatDonHang.genruntimeconfig.cache
+C:\Users\x\source\repos\GiamSatDonHang\GiamSatDonHang\obj\Debug\net8.0\ref\GiamSatDonHang.dll
